@@ -1,0 +1,57 @@
+c:\users\akriti\documents\visual studio 2010\Projects\CMS\CMS\bin\CMS.dll
+c:\users\akriti\documents\visual studio 2010\Projects\CMS\CMS\bin\CMS.pdb
+c:\users\akriti\documents\visual studio 2010\Projects\CMS\CMS\obj\Debug\CMS.dll
+c:\users\akriti\documents\visual studio 2010\Projects\CMS\CMS\obj\Debug\CMS.pdb
+C:\Users\Rajat\Desktop\Content Management Syatem\CMS\CMS\bin\CMS.dll
+C:\Users\Rajat\Desktop\Content Management Syatem\CMS\CMS\bin\CMS.pdb
+C:\Users\Rajat\Desktop\Content Management Syatem\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Rajat\Desktop\Content Management Syatem\CMS\CMS\obj\Debug\CMS.dll
+C:\Users\Rajat\Desktop\Content Management Syatem\CMS\CMS\obj\Debug\CMS.pdb
+H:\New folder\CMS\CMS\bin\CMS.dll
+H:\New folder\CMS\CMS\bin\CMS.pdb
+H:\New folder\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+H:\New folder\CMS\CMS\obj\Debug\CMS.dll
+H:\New folder\CMS\CMS\obj\Debug\CMS.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2012\Projects\CMS\bin\CMS.dll
+C:\Users\Nikhil\Documents\Visual Studio 2012\Projects\CMS\bin\CMS.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2012\Projects\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Documents\Visual Studio 2012\Projects\CMS\obj\Debug\CMS.dll
+C:\Users\Nikhil\Documents\Visual Studio 2012\Projects\CMS\obj\Debug\CMS.pdb
+C:\Users\Akriti\Documents\Visual Studio 2010\Projects\CMS\bin\CMS.dll
+C:\Users\Akriti\Documents\Visual Studio 2010\Projects\CMS\bin\CMS.pdb
+C:\Users\Akriti\Documents\Visual Studio 2010\Projects\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Akriti\Documents\Visual Studio 2010\Projects\CMS\obj\Debug\CMS.dll
+C:\Users\Akriti\Documents\Visual Studio 2010\Projects\CMS\obj\Debug\CMS.pdb
+D:\Dropbox\Project\CMS\bin\CMS.dll
+D:\Dropbox\Project\CMS\bin\CMS.pdb
+D:\Dropbox\Project\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\Dropbox\Project\CMS\obj\Debug\CMS.dll
+D:\Dropbox\Project\CMS\obj\Debug\CMS.pdb
+D:\New CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\New CMS\CMS\bin\CMS.dll
+D:\New CMS\CMS\bin\CMS.pdb
+D:\New CMS\CMS\obj\Debug\CMS.dll
+D:\New CMS\CMS\obj\Debug\CMS.pdb
+D:\rajatpatel92\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\rajatpatel92\CMS\obj\Debug\CMS.dll
+D:\rajatpatel92\CMS\obj\Debug\CMS.pdb
+E:\CMS\bin\CMS.dll
+E:\CMS\bin\CMS.pdb
+E:\CMS\obj\Debug\CMS.dll
+E:\CMS\obj\Debug\CMS.pdb
+E:\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\CMS\obj\Debug\CMS.dll
+C:\Users\Nikhil\Desktop\CMS\obj\Debug\CMS.pdb
+C:\Users\Nikhil\Desktop\CMS\bin\CMS.dll
+C:\Users\Nikhil\Desktop\CMS\bin\CMS.pdb
+D:\CMS\bin\CMS.dll
+D:\CMS\bin\CMS.pdb
+D:\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\CMS\obj\Debug\CMS.dll
+D:\CMS\obj\Debug\CMS.pdb
+G:\CMS\bin\CMS.dll
+G:\CMS\bin\CMS.pdb
+G:\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+G:\CMS\obj\Debug\CMS.dll
+G:\CMS\obj\Debug\CMS.pdb

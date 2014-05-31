@@ -1,4 +1,1 @@
-CMS
-===
-
 Content Management System
