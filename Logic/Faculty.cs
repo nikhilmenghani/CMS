@@ -12,7 +12,7 @@ namespace CMS.Logic
         public String deptID;
         public String deptName;
         public String email_id;
-
+        //test comment
         public Functions func = new Functions();
         
         public String getDeptID(String username)
